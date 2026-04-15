@@ -20,5 +20,5 @@ elif forma == "R":
 else:
     print("Forma non riconosciuta. Usa Q, C o R.")
 
-#dichiaro la condizione che viene abilitata dalla scelta dell'operatore e stampo il risultato
+#dichiaro la condizione che viene abilitata dalla scelta dell'operatore, dichiaro la variabile dell'if e stampo il risultato
 
